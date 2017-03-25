@@ -1,6 +1,7 @@
 # BagFromImages
 dd
 dd2
+dd3
 
 ROS package to generate a rosbag from a collection of images. Images are ordered alphabetically. The timestamp for each image is assigned according to the specified frequency. 
 
